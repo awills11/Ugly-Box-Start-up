@@ -30,3 +30,6 @@ List of all the parts in order to put together an ugly box:
 -2: Pre-made Camera mounts  
 -2: EMMc cards  
 -1: Wireless card
+-1:Pre-cut board
+-2:Pre-cut legs
+-2:Pre-cut camera mounts
