@@ -25,5 +25,8 @@ List of all the parts in order to put together an ugly box:
 -2: USB cords <br>
 -1: Particle Sensor  
 -2: SD cards (need latest waggle image) <br>
+-1: Pre-cut board  
+-2: Pre-cut legs <br>
+-2: Pre-made Camera mounts  
 -2: EMMc cards  
 -1: Wireless card
