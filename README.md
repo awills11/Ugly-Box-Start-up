@@ -1,7 +1,7 @@
 # Ugly-Box-Start-up
 Lists all the parts in order to put together an ugly box
 
--Airsense v3.1
+-Airsense v3.1 <br>
 -Lightsense v3.1
 -2 cameras with the tripod stands
 -Odroid C1+
