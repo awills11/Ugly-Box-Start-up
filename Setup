@@ -21,3 +21,19 @@ S-A2-2X18, M2 washers, and M2 nuts. On the other mount, mount the camera on the 
 a couple of M4 washers, M4 lockwash, and a M4 nut. 
 
 #Add Picture
+
+6. Steps 1-5 should esentially cover the structure of the node, so next we will wire the node together. You should start by connecting the
+camera cords to the cameras and then plug the USBs into the XU4. That should be all that is plugged in to the XU4 aside from the
+ethernet cable from the C1+.
+
+#Add Picture
+
+7. You should already have the USB connected from the Wagman to the C1+ so there will be three more USB slots to fill. One of those is a
+USB cable form the lightsense to the C1+. The other two are used for the wireless card and the connection to the particle sensor. 
+
+#Picture
+
+8. The last thing for the wiring should be the ethernet cords. You need to connect an ethernet cord from the lightsense to the airsense 
+and one from the airsense to the chemsense. After that is done, you should have a complete ugly box wired up.
+
+#picture
