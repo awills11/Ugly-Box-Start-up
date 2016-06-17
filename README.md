@@ -1,5 +1,5 @@
 # Ugly-Box-Start-up
-Lists all the parts in order to put together an ugly box
+List of all the parts in order to put together an ugly box:
 
 -Airsense v3.1  
 -Lightsense v3.1 <br>
