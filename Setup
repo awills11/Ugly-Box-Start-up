@@ -35,6 +35,10 @@ USB cable form the lightsense to the C1+. The other two are used for the wireles
 <img src="C1+_connected.jpg" alt="You should fix this" style="width:435px; height:400px;"> <br>
 
 8. The last thing for the wiring should be the ethernet cords. You need to connect an ethernet cord from the lightsense to the airsense 
-and one from the airsense to the chemsense. After that is done, you should have a complete ugly box wired up. <br><br>
+and one from the airsense to the chemsense. The airsense and chemsense should also be mounted like shown below. After that is done, you 
+should have a complete ugly box wired up. <br><br>
 
 <img src="Complete.jpg" alt="You should fix this" style="width:435px; height:400px;">
+<img src="Airsense" alt="You should fix this" style="width435px; height:400px;">
+<img src="Chemsense" alt="You should fix this" style="width435px; height:400px;">
+
