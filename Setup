@@ -1,39 +1,40 @@
 The following steps are the quickest way to put together the box: <br>
 
-1. Start by mounting the XU4 to the bottom of the pre-cut board with the M2 screws and M2 spacers. <br>
+1. Start by mounting the XU4 to the bottom of the pre-cut board with the M2 screws and M2 spacers. <br><br>
 
-<img src="Xu4.jpg" alt="You should fix this">
+<img src="Xu4.jpg" alt="You should fix this" style="width:435px; height:400px;"> <br>
 
-2. Mount the C1+ to the Wagman board with the M3 screws and M3 plastic nuts. <br>
+2. Mount the C1+ to the Wagman board with the M3 screws and M3 plastic nuts. <br><br>
 
-<img src="C1+.jpg" alt="You should fix this">
+<img src="C1+.jpg" alt="You should fix this" style="width:435px; height:400px;"> <br>
 
-3. Mount the Wagman to the pre-cut board on the opposite side of the XU4 using the M4X14, M4 washers, and size 100 spacers. <br>
+3. Mount the Wagman to the pre-cut board on the opposite side of the XU4 using the M4X14, M4 washers, and size 100 spacers. <br><br>
 
-<img src="Wagman.jpg" alt="You should fix this">
+<img src="Wagman.jpg" alt="You should fix this" style="width:435px; height:400px;"> <br>
 
-4. Connect the pre cut board with the two legs using the M4X30 and the M4 nuts.
+4. Connect the pre cut board with the two legs using the M4X30 and the M4 nuts. <br><br>
 
-<img src="Legs.jpg" alt="You should fix this">
+<img src="Legs.jpg" alt="You should fix this" style="width:435px; height:400px;"> <br>
 
 5. Next, using the pre-cut camera mounts, mount the lightsense on the outside of one of them and the camera on the inside with the
 S-A2-2X18, M2 washers, and M2 nuts. On the other mount, mount the camera on the outside. To keep the camera mounts in place, use a M4X14, 
-a couple of M4 washers, M4 lockwash, and a M4 nut. 
+a couple of M4 washers, M4 lockwash, and a M4 nut. <br><br>
 
-<img src="Lightsensejpg" alt="Fix this"> <img src="Lightsense_back" alt="Fix this"> <img src="Camera.jpg" alt="Fix this">
+<img src="Lightsense.jpg" alt="Fix this" style="width:435px; height:400px;"> <img src="Lightsense_back.jpg" alt="Fix this" style="width:435px; height:400px;">
+<img src="Camera.jpg" alt="Fix this" style="width:435px; height:400px;"> <br>
 
 6. Steps 1-5 should esentially cover the structure of the node, so next we will wire the node together. You should start by connecting the
 camera cords to the cameras and then plug the USBs into the XU4. That should be all that is plugged in to the XU4 aside from the
-ethernet cable from the C1+.
+ethernet cable from the C1+. <br><br>
 
-<img src="Xu4_connected.jpg" alt="You should fix this">
+<img src="Xu4_connected.jpg" alt="You should fix this" style="width:435px; height:400px;"> <br>
 
 7. You should already have the USB connected from the Wagman to the C1+ so there will be three more USB slots to fill. One of those is a
-USB cable form the lightsense to the C1+. The other two are used for the wireless card and the connection to the particle sensor. 
+USB cable form the lightsense to the C1+. The other two are used for the wireless card and the connection to the particle sensor. <br><br>
 
-<img src="C1+_connected.jpg" alt="You should fix this">
+<img src="C1+_connected.jpg" alt="You should fix this" style="width:435px; height:400px;"> <br>
 
 8. The last thing for the wiring should be the ethernet cords. You need to connect an ethernet cord from the lightsense to the airsense 
-and one from the airsense to the chemsense. After that is done, you should have a complete ugly box wired up.
+and one from the airsense to the chemsense. After that is done, you should have a complete ugly box wired up. <br><br>
 
-<img src="Complete.jpg" alt="You should fix this">
+<img src="Complete.jpg" alt="You should fix this" style="width:435px; height:400px;">
