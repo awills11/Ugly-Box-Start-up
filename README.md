@@ -33,3 +33,4 @@ List of all the parts in order to put together an ugly box:
 -1:Pre-cut board <br>
 -2:Pre-cut legs <br>
 -2:Pre-cut camera mounts
+-1:Sensorboard mount
