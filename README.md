@@ -12,15 +12,15 @@ List of all the parts in order to put together an ugly box:
 -8: M4 washers  
 -4: M3X10 screws <br>
 -4: Size 6 spacers  
--4: M1X6 screws <br>
--4: M1 spacers  
+-4: M2X6 screws <br>
+-4: M2 spacers  
 -6: M4 nuts <br>
 -4: Size 165 spacers  
 -4: Size 100 spacers <br>
 -2: M4 lockwashers  
 -8: S-A2-2X18 screws <br>
--8: M1 nuts  
--16: M1 Washers <br>
+-8: M2 nuts  
+-16: M2 Washers <br>
 -3: Ethernet cords  
 -2: USB cords <br>
 -1: Particle Sensor  
