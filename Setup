@@ -1,3 +1,6 @@
+<!doctype html>
+<html lang="en">
+
 <h1 align="center"> Ugly Box Build </h1>
 The following steps are the quickest way to put together the box: <br>
 
@@ -42,4 +45,4 @@ should have a complete ugly box wired up. <br><br>
 <img src="Complete.jpg" alt="You should fix this" style="width:450px; height:400px;">
 <img src="Airsense.jpg" alt="You should fix this" style="width450px; height:400px;">
 <img src="Chemsense.jpg" alt="You should fix this" style="width450px; height:400px;">
-
+</html>
